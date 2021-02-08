@@ -8,3 +8,6 @@
 
 .dart_tool/
 firebase-get-to-know-flutter/step_04/typer/steps.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
